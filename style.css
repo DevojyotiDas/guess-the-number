@@ -132,7 +132,7 @@ h1 {
   margin-bottom: 20px;
 }
 
-@media (min-width: 200px) and (max-width: 550px) {
+@media (min-width: 25px) and (max-width: 550px) {
   main {
     display: flex;
     flex-direction: column;
